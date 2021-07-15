@@ -14,5 +14,5 @@ Helicopter             |  Gravity          |  Thrust
 - [Hossein Zaredar](https://github.com/HosseinZaredar)
 - [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
 - Many thanks to [Parnian Rad](https://github.com/Parnian-Rad)
-- AI by [Mahdi_Nasri](https://github.com/m4hdin4)
+- AI by [Mahdi Nasri](https://github.com/m4hdin4)
 
